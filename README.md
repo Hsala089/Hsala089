@@ -39,6 +39,9 @@ I am a passionate software engineering student
 	<code><img width="55" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 </div>
 
+🏆 GitHub Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsala089" /></a> </p>
 
 <!--
 **Hsala089/Hsala089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
