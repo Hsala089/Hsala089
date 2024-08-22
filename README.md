@@ -39,10 +39,7 @@ I am a passionate software engineering student
 
 ## 🏆 GitHub Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsala089&rank=S,AAA,AA,A" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsala089&"/></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsala089&rank=SSS,SS,S,AAA,AA,A" /></a> </p>
 
 <!--
 **Hsala089/Hsala089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
